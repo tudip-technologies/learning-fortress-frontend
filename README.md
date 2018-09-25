@@ -3,6 +3,7 @@
 This is a simple VLE project running using a firebase backend. It is designed as a blended learning tool.
 
 ## Basic Installation 
+
 1. Make sure you have git, node and npm. We use Visual Studio to edit our code.
 2. Clone and install
 ```bash
